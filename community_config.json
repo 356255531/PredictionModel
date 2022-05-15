@@ -1,0 +1,550 @@
+[
+    {
+        "prosumerID": "e3e70682-c209-4cac-629f-6fbed82c07cd",
+        "gridLocation": "N04",
+        "userType": "residential",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "67a9c378-7c65-c1e5-82e2-e662f728b4fa",
+                "peakPower": 2.8773514976776977,
+                "timeOffsetRange": 1,
+                "pred_filename": "e3e70682-c209-4cac-629f-6fbed82c07cd-67a9c378-7c65-c1e5-82e2-e662f728b4fa-pred.csv",
+                "filename": "e3e70682-c209-4cac-629f-6fbed82c07cd-67a9c378-7c65-c1e5-82e2-e662f728b4fa.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "9558867f-5ba9-1faf-7a02-4204f7c1bd87",
+                "capacity": 4.56664263928273,
+                "chargePower": 0.5
+            },
+            {
+                "deviceType": "solar",
+                "deviceID": "9e4d6e3c-1846-d424-c17c-627923c6612f",
+                "maxPower": 0.8997012870405106,
+                "turbulenceFactor": 1,
+                "pred_filename": "e3e70682-c209-4cac-629f-6fbed82c07cd-9e4d6e3c-1846-d424-c17c-627923c6612f-pred.csv",
+                "filename": "e3e70682-c209-4cac-629f-6fbed82c07cd-9e4d6e3c-1846-d424-c17c-627923c6612f.csv"
+            }
+        ]
+    },
+    {
+        "prosumerID": "fb97d435-8856-1712-e8e5-216afcbd04c3",
+        "gridLocation": "N05",
+        "userType": "residential",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "12e0c8b2-bad6-40fb-1948-8dec4f65d4d9",
+                "peakPower": 2.84825743195199,
+                "timeOffsetRange": 1,
+                "pred_filename": "fb97d435-8856-1712-e8e5-216afcbd04c3-12e0c8b2-bad6-40fb-1948-8dec4f65d4d9-pred.csv",
+                "filename": "fb97d435-8856-1712-e8e5-216afcbd04c3-12e0c8b2-bad6-40fb-1948-8dec4f65d4d9.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "5a921187-19c7-8df4-8f4f-f31e78de5857",
+                "capacity": 2.7366873418151347,
+                "chargePower": 0.5
+            }
+        ]
+    },
+    {
+        "prosumerID": "71545a13-7a1d-5006-8d72-3104f77383c1",
+        "gridLocation": "N05",
+        "userType": "residential",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "ea7e9d49-8c77-8ea6-eb20-83e6ce164dba",
+                "peakPower": 1.5210625502460284,
+                "timeOffsetRange": 1,
+                "pred_filename": "71545a13-7a1d-5006-8d72-3104f77383c1-ea7e9d49-8c77-8ea6-eb20-83e6ce164dba-pred.csv",
+                "filename": "71545a13-7a1d-5006-8d72-3104f77383c1-ea7e9d49-8c77-8ea6-eb20-83e6ce164dba.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "c8f8e3d0-d329-0a4c-b5d3-2b1666194cb1",
+                "capacity": 3.6726128049274034,
+                "chargePower": 0.5
+            },
+            {
+                "deviceType": "wind",
+                "deviceID": "55485822-de1b-372a-d3fb-f47a7e5b1e7f",
+                "maxPower": 0.6219554384435659,
+                "turbulenceFactor": 1,
+                "pred_filename": "71545a13-7a1d-5006-8d72-3104f77383c1-55485822-de1b-372a-d3fb-f47a7e5b1e7f-pred.csv",
+                "filename": "71545a13-7a1d-5006-8d72-3104f77383c1-55485822-de1b-372a-d3fb-f47a7e5b1e7f.csv"
+            },
+            {
+                "deviceType": "solar",
+                "deviceID": "eac1c14f-30e9-c5cc-101f-bcccded733e8",
+                "maxPower": 0.7837553703103359,
+                "turbulenceFactor": 1,
+                "pred_filename": "71545a13-7a1d-5006-8d72-3104f77383c1-eac1c14f-30e9-c5cc-101f-bcccded733e8-pred.csv",
+                "filename": "71545a13-7a1d-5006-8d72-3104f77383c1-eac1c14f-30e9-c5cc-101f-bcccded733e8.csv"
+            }
+        ]
+    },
+    {
+        "prosumerID": "247a8333-f7b0-b7d2-cda8-056c3d15eef7",
+        "gridLocation": "N05",
+        "userType": "residential",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "e005b860-51ef-1922-fe43-c49e149818d1",
+                "peakPower": 2.2619109637808608,
+                "timeOffsetRange": 1,
+                "pred_filename": "247a8333-f7b0-b7d2-cda8-056c3d15eef7-e005b860-51ef-1922-fe43-c49e149818d1-pred.csv",
+                "filename": "247a8333-f7b0-b7d2-cda8-056c3d15eef7-e005b860-51ef-1922-fe43-c49e149818d1.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "4a84eb03-8d1f-d9b7-4d2b-9deb1beb3711",
+                "capacity": 3.8262456394675586,
+                "chargePower": 0.5
+            }
+        ]
+    },
+    {
+        "prosumerID": "cca74147-f6be-1f72-3405-095c8a5006c1",
+        "gridLocation": "N05",
+        "userType": "residential",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "98a6416d-1775-336d-71ea-cd0549a3e80e",
+                "peakPower": 2.6969025289815045,
+                "timeOffsetRange": 1,
+                "pred_filename": "cca74147-f6be-1f72-3405-095c8a5006c1-98a6416d-1775-336d-71ea-cd0549a3e80e-pred.csv",
+                "filename": "cca74147-f6be-1f72-3405-095c8a5006c1-98a6416d-1775-336d-71ea-cd0549a3e80e.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "307bf326-2f12-0554-4a53-08cc3dfabc08",
+                "capacity": 4.2858688588955856,
+                "chargePower": 0.5
+            },
+            {
+                "deviceType": "wind",
+                "deviceID": "79fdef7c-4293-0b33-a81a-d477fb3675b8",
+                "maxPower": 0.5345426242419494,
+                "turbulenceFactor": 1,
+                "pred_filename": "cca74147-f6be-1f72-3405-095c8a5006c1-79fdef7c-4293-0b33-a81a-d477fb3675b8-pred.csv",
+                "filename": "cca74147-f6be-1f72-3405-095c8a5006c1-79fdef7c-4293-0b33-a81a-d477fb3675b8.csv"
+            }
+        ]
+    },
+    {
+        "prosumerID": "ec62b2c8-2648-ee38-e074-05eb215663ab",
+        "gridLocation": "N01",
+        "userType": "residential",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "d450fe4a-ec4f-217b-b306-d1a8e5eeac76",
+                "peakPower": 2.3108998874220816,
+                "timeOffsetRange": 1,
+                "pred_filename": "ec62b2c8-2648-ee38-e074-05eb215663ab-d450fe4a-ec4f-217b-b306-d1a8e5eeac76-pred.csv",
+                "filename": "ec62b2c8-2648-ee38-e074-05eb215663ab-d450fe4a-ec4f-217b-b306-d1a8e5eeac76.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "85940927-468f-f53d-864a-7a50b48d73f1",
+                "capacity": 4.2465148340315135,
+                "chargePower": 0.5
+            }
+        ]
+    },
+    {
+        "prosumerID": "6b5f5241-f323-ca74-d344-749096fd35d0",
+        "gridLocation": "N05",
+        "userType": "residential",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "ff0ac0f1-a425-799a-a905-d7507e1ea9c5",
+                "peakPower": 2.5503382859782264,
+                "timeOffsetRange": 1,
+                "pred_filename": "6b5f5241-f323-ca74-d344-749096fd35d0-ff0ac0f1-a425-799a-a905-d7507e1ea9c5-pred.csv",
+                "filename": "6b5f5241-f323-ca74-d344-749096fd35d0-ff0ac0f1-a425-799a-a905-d7507e1ea9c5.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "9cdf5a86-5306-f3f5-1516-65705b7c709a",
+                "capacity": 1.4613989736570177,
+                "chargePower": 0.5
+            },
+            {
+                "deviceType": "solar",
+                "deviceID": "bb42e0b2-0426-465e-3e37-952d30bcab0e",
+                "maxPower": 0.6355189797175462,
+                "turbulenceFactor": 1,
+                "pred_filename": "6b5f5241-f323-ca74-d344-749096fd35d0-bb42e0b2-0426-465e-3e37-952d30bcab0e-pred.csv",
+                "filename": "6b5f5241-f323-ca74-d344-749096fd35d0-bb42e0b2-0426-465e-3e37-952d30bcab0e.csv"
+            }
+        ]
+    },
+    {
+        "prosumerID": "cb69ca38-5f3f-5638-3870-1a14b490b608",
+        "gridLocation": "N02",
+        "userType": "residential",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "c87a7463-19c1-6a0d-0feb-d845d0dfae43",
+                "peakPower": 1.7195377333684558,
+                "timeOffsetRange": 1,
+                "pred_filename": "cb69ca38-5f3f-5638-3870-1a14b490b608-c87a7463-19c1-6a0d-0feb-d845d0dfae43-pred.csv",
+                "filename": "cb69ca38-5f3f-5638-3870-1a14b490b608-c87a7463-19c1-6a0d-0feb-d845d0dfae43.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "a25b59fd-92e8-e269-d12e-cbc40b9475b1",
+                "capacity": 4.640064058796159,
+                "chargePower": 0.5
+            }
+        ]
+    },
+    {
+        "prosumerID": "3042e325-a28f-5ab0-1fdb-8b3206d599e8",
+        "gridLocation": "N05",
+        "userType": "residential",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "5ec17dbe-176e-a1b1-6426-4cd51ea45cd6",
+                "peakPower": 2.7507666458992284,
+                "timeOffsetRange": 1,
+                "pred_filename": "3042e325-a28f-5ab0-1fdb-8b3206d599e8-5ec17dbe-176e-a1b1-6426-4cd51ea45cd6-pred.csv",
+                "filename": "3042e325-a28f-5ab0-1fdb-8b3206d599e8-5ec17dbe-176e-a1b1-6426-4cd51ea45cd6.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "f6062541-31d0-b664-0589-f8779b025244",
+                "capacity": 4.8827676530174,
+                "chargePower": 0.5
+            },
+            {
+                "deviceType": "solar",
+                "deviceID": "efdd35f8-0fa3-4266-ccfd-ba9bba26d851",
+                "maxPower": 0.8396735974504894,
+                "turbulenceFactor": 1,
+                "pred_filename": "3042e325-a28f-5ab0-1fdb-8b3206d599e8-efdd35f8-0fa3-4266-ccfd-ba9bba26d851-pred.csv",
+                "filename": "3042e325-a28f-5ab0-1fdb-8b3206d599e8-efdd35f8-0fa3-4266-ccfd-ba9bba26d851.csv"
+            }
+        ]
+    },
+    {
+        "prosumerID": "19fbeb1d-9edf-a3da-6cf5-5b158b53031d",
+        "gridLocation": "N03",
+        "userType": "residential",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "59acdd98-4d12-5e7f-a59c-ec98126cbc8f",
+                "peakPower": 2.154102971929884,
+                "timeOffsetRange": 1,
+                "pred_filename": "19fbeb1d-9edf-a3da-6cf5-5b158b53031d-59acdd98-4d12-5e7f-a59c-ec98126cbc8f-pred.csv",
+                "filename": "19fbeb1d-9edf-a3da-6cf5-5b158b53031d-59acdd98-4d12-5e7f-a59c-ec98126cbc8f.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "19d5f970-98b3-3c6e-0a14-b90a7795e986",
+                "capacity": 3.7972925003837092,
+                "chargePower": 0.5
+            },
+            {
+                "deviceType": "solar",
+                "deviceID": "d69c91c2-7860-1602-bb4a-06cbe786ab37",
+                "maxPower": 0.951152115756579,
+                "turbulenceFactor": 1,
+                "pred_filename": "19fbeb1d-9edf-a3da-6cf5-5b158b53031d-d69c91c2-7860-1602-bb4a-06cbe786ab37-pred.csv",
+                "filename": "19fbeb1d-9edf-a3da-6cf5-5b158b53031d-d69c91c2-7860-1602-bb4a-06cbe786ab37.csv"
+            }
+        ]
+    },
+    {
+        "prosumerID": "ac322c12-b29c-467d-2b5f-693291dc59ef",
+        "gridLocation": "N02",
+        "userType": "residential",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "28805c5d-ad1b-8f60-c9e4-dab20edc6d2b",
+                "peakPower": 2.768136890552425,
+                "timeOffsetRange": 1,
+                "pred_filename": "ac322c12-b29c-467d-2b5f-693291dc59ef-28805c5d-ad1b-8f60-c9e4-dab20edc6d2b-pred.csv",
+                "filename": "ac322c12-b29c-467d-2b5f-693291dc59ef-28805c5d-ad1b-8f60-c9e4-dab20edc6d2b.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "ebe21368-98c7-5205-1e01-a934402d0baf",
+                "capacity": 2.769256134796316,
+                "chargePower": 0.5
+            },
+            {
+                "deviceType": "wind",
+                "deviceID": "e66cd36e-68ef-8f5f-ae68-690a78bc7175",
+                "maxPower": 0.78455636976214,
+                "turbulenceFactor": 1,
+                "pred_filename": "ac322c12-b29c-467d-2b5f-693291dc59ef-e66cd36e-68ef-8f5f-ae68-690a78bc7175-pred.csv",
+                "filename": "ac322c12-b29c-467d-2b5f-693291dc59ef-e66cd36e-68ef-8f5f-ae68-690a78bc7175.csv"
+            }
+        ]
+    },
+    {
+        "prosumerID": "637e0edc-5b6e-4ae7-a620-81434fbaecc0",
+        "gridLocation": "N03",
+        "userType": "residential",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "bdd7d19b-753c-7c99-032f-06cab0d9c2aa",
+                "peakPower": 1.618610683857462,
+                "timeOffsetRange": 1,
+                "pred_filename": "637e0edc-5b6e-4ae7-a620-81434fbaecc0-bdd7d19b-753c-7c99-032f-06cab0d9c2aa-pred.csv",
+                "filename": "637e0edc-5b6e-4ae7-a620-81434fbaecc0-bdd7d19b-753c-7c99-032f-06cab0d9c2aa.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "3d792fa1-2284-b7a4-47e7-f5938b5885ca",
+                "capacity": 4.048666624818127,
+                "chargePower": 0.5
+            }
+        ]
+    },
+    {
+        "prosumerID": "f2686baa-971c-702d-5bf4-9c04ac642b4c",
+        "gridLocation": "N05",
+        "userType": "business",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "6a174c1c-bf9c-c545-6355-18f74f6fa985",
+                "peakPower": 13.289027709575956,
+                "timeOffsetRange": 0.5,
+                "pred_filename": "f2686baa-971c-702d-5bf4-9c04ac642b4c-6a174c1c-bf9c-c545-6355-18f74f6fa985-pred.csv",
+                "filename": "f2686baa-971c-702d-5bf4-9c04ac642b4c-6a174c1c-bf9c-c545-6355-18f74f6fa985.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "559b5975-b2d6-50af-313b-32b798363189",
+                "capacity": 5.800398895122705,
+                "chargePower": 1
+            },
+            {
+                "deviceType": "solar",
+                "deviceID": "91725f0a-ac7c-8803-e01b-bf50b5d97ef7",
+                "maxPower": 2.749075299716091,
+                "turbulenceFactor": 0.5,
+                "pred_filename": "f2686baa-971c-702d-5bf4-9c04ac642b4c-91725f0a-ac7c-8803-e01b-bf50b5d97ef7-pred.csv",
+                "filename": "f2686baa-971c-702d-5bf4-9c04ac642b4c-91725f0a-ac7c-8803-e01b-bf50b5d97ef7.csv"
+            }
+        ]
+    },
+    {
+        "prosumerID": "b3ab1b2c-df26-f517-66fa-f98908135d58",
+        "gridLocation": "N05",
+        "userType": "business",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "2a69acc7-0bf9-c0ef-b581-6b74a985ab61",
+                "peakPower": 9.453521897188299,
+                "timeOffsetRange": 0.5,
+                "pred_filename": "b3ab1b2c-df26-f517-66fa-f98908135d58-2a69acc7-0bf9-c0ef-b581-6b74a985ab61-pred.csv",
+                "filename": "b3ab1b2c-df26-f517-66fa-f98908135d58-2a69acc7-0bf9-c0ef-b581-6b74a985ab61.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "e28bc9ff-870f-084c-7244-f536285e25b4",
+                "capacity": 7.43632800534516,
+                "chargePower": 1
+            },
+            {
+                "deviceType": "solar",
+                "deviceID": "53710f57-7e9c-f84f-09f6-048fe245a460",
+                "maxPower": 1.624116492833746,
+                "turbulenceFactor": 0.5,
+                "pred_filename": "b3ab1b2c-df26-f517-66fa-f98908135d58-53710f57-7e9c-f84f-09f6-048fe245a460-pred.csv",
+                "filename": "b3ab1b2c-df26-f517-66fa-f98908135d58-53710f57-7e9c-f84f-09f6-048fe245a460.csv"
+            }
+        ]
+    },
+    {
+        "prosumerID": "d29dc5df-cf1d-a110-0cc3-6d8c77863fe5",
+        "gridLocation": "N04",
+        "userType": "business",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "fa83ada4-a212-1ac5-f689-a4a5ffda0336",
+                "peakPower": 5.834670501757293,
+                "timeOffsetRange": 0.5,
+                "pred_filename": "d29dc5df-cf1d-a110-0cc3-6d8c77863fe5-fa83ada4-a212-1ac5-f689-a4a5ffda0336-pred.csv",
+                "filename": "d29dc5df-cf1d-a110-0cc3-6d8c77863fe5-fa83ada4-a212-1ac5-f689-a4a5ffda0336.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "f3158c0c-66dd-7794-03c5-4c71fca05536",
+                "capacity": 8.39257502620984,
+                "chargePower": 1
+            },
+            {
+                "deviceType": "solar",
+                "deviceID": "faf1501b-009a-815b-c137-8be5b7a28e0a",
+                "maxPower": 2.6454628210628313,
+                "turbulenceFactor": 0.5,
+                "pred_filename": "d29dc5df-cf1d-a110-0cc3-6d8c77863fe5-faf1501b-009a-815b-c137-8be5b7a28e0a-pred.csv",
+                "filename": "d29dc5df-cf1d-a110-0cc3-6d8c77863fe5-faf1501b-009a-815b-c137-8be5b7a28e0a.csv"
+            }
+        ]
+    },
+    {
+        "prosumerID": "30c1fb6a-1908-6515-9cb0-17c18741ae91",
+        "gridLocation": "N01",
+        "userType": "business",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "47acf2f6-4d6b-234f-dfa7-c6ed32d1f81b",
+                "peakPower": 11.885400040337084,
+                "timeOffsetRange": 0.5,
+                "pred_filename": "30c1fb6a-1908-6515-9cb0-17c18741ae91-47acf2f6-4d6b-234f-dfa7-c6ed32d1f81b-pred.csv",
+                "filename": "30c1fb6a-1908-6515-9cb0-17c18741ae91-47acf2f6-4d6b-234f-dfa7-c6ed32d1f81b.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "658de17e-ec3a-a314-da9b-b01779c147c7",
+                "capacity": 8.138195502808147,
+                "chargePower": 1
+            },
+            {
+                "deviceType": "wind",
+                "deviceID": "cad6e514-ccc1-4d51-73f6-60d8e9f41cc0",
+                "maxPower": 1.2315587976777538,
+                "turbulenceFactor": 0.5,
+                "pred_filename": "30c1fb6a-1908-6515-9cb0-17c18741ae91-cad6e514-ccc1-4d51-73f6-60d8e9f41cc0-pred.csv",
+                "filename": "30c1fb6a-1908-6515-9cb0-17c18741ae91-cad6e514-ccc1-4d51-73f6-60d8e9f41cc0.csv"
+            },
+            {
+                "deviceType": "solar",
+                "deviceID": "a699bae0-d138-d150-8557-716aa7502a81",
+                "maxPower": 2.2898813388802557,
+                "turbulenceFactor": 0.5,
+                "pred_filename": "30c1fb6a-1908-6515-9cb0-17c18741ae91-a699bae0-d138-d150-8557-716aa7502a81-pred.csv",
+                "filename": "30c1fb6a-1908-6515-9cb0-17c18741ae91-a699bae0-d138-d150-8557-716aa7502a81.csv"
+            }
+        ]
+    },
+    {
+        "prosumerID": "4745dd9e-2789-6389-df32-77fd1d77ce40",
+        "gridLocation": "N01",
+        "userType": "industrial",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "8ef066d4-4279-b14d-ae55-cdff34ab18fd",
+                "peakPower": 18.14713231820632,
+                "timeOffsetRange": 0.2,
+                "pred_filename": "4745dd9e-2789-6389-df32-77fd1d77ce40-8ef066d4-4279-b14d-ae55-cdff34ab18fd-pred.csv",
+                "filename": "4745dd9e-2789-6389-df32-77fd1d77ce40-8ef066d4-4279-b14d-ae55-cdff34ab18fd.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "0ac0cf0d-d974-c146-e8ec-01b3914591ae",
+                "capacity": 18.4635992161285,
+                "chargePower": 2
+            },
+            {
+                "deviceType": "solar",
+                "deviceID": "e7180322-a4e6-95c9-b65d-12267e969cf3",
+                "maxPower": 19.586643624316245,
+                "turbulenceFactor": 0.2,
+                "pred_filename": "4745dd9e-2789-6389-df32-77fd1d77ce40-e7180322-a4e6-95c9-b65d-12267e969cf3-pred.csv",
+                "filename": "4745dd9e-2789-6389-df32-77fd1d77ce40-e7180322-a4e6-95c9-b65d-12267e969cf3.csv"
+            }
+        ]
+    },
+    {
+        "prosumerID": "89b5b368-df14-c612-5f58-d5b56f790959",
+        "gridLocation": "N02",
+        "userType": "industrial",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "2371ea2c-0247-145f-4a81-4d53964ddb77",
+                "peakPower": 16.510231738639877,
+                "timeOffsetRange": 0.2,
+                "pred_filename": "89b5b368-df14-c612-5f58-d5b56f790959-2371ea2c-0247-145f-4a81-4d53964ddb77-pred.csv",
+                "filename": "89b5b368-df14-c612-5f58-d5b56f790959-2371ea2c-0247-145f-4a81-4d53964ddb77.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "17fd3736-b7ef-941c-5e00-ea6dca24be4d",
+                "capacity": 13.382559700266786,
+                "chargePower": 2
+            },
+            {
+                "deviceType": "solar",
+                "deviceID": "955d0e77-fb5e-b866-2640-211e29f2c3c7",
+                "maxPower": 17.89530853635867,
+                "turbulenceFactor": 0.2,
+                "pred_filename": "89b5b368-df14-c612-5f58-d5b56f790959-955d0e77-fb5e-b866-2640-211e29f2c3c7-pred.csv",
+                "filename": "89b5b368-df14-c612-5f58-d5b56f790959-955d0e77-fb5e-b866-2640-211e29f2c3c7.csv"
+            }
+        ]
+    },
+    {
+        "prosumerID": "2130260c-8c69-778f-fd42-f69765111656",
+        "gridLocation": "N03",
+        "userType": "industrial",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "0c5a876f-ef0a-81ed-3d5d-60bcbb0378eb",
+                "peakPower": 18.07879762199423,
+                "timeOffsetRange": 0.2,
+                "pred_filename": "2130260c-8c69-778f-fd42-f69765111656-0c5a876f-ef0a-81ed-3d5d-60bcbb0378eb-pred.csv",
+                "filename": "2130260c-8c69-778f-fd42-f69765111656-0c5a876f-ef0a-81ed-3d5d-60bcbb0378eb.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "673617d9-4d7b-d307-1224-11e6ba8982dd",
+                "capacity": 18.35559735659664,
+                "chargePower": 2
+            },
+            {
+                "deviceType": "solar",
+                "deviceID": "79585e69-7b2e-1b82-e89d-c8158f928dc5",
+                "maxPower": 18.37080544537666,
+                "turbulenceFactor": 0.2,
+                "pred_filename": "2130260c-8c69-778f-fd42-f69765111656-79585e69-7b2e-1b82-e89d-c8158f928dc5-pred.csv",
+                "filename": "2130260c-8c69-778f-fd42-f69765111656-79585e69-7b2e-1b82-e89d-c8158f928dc5.csv"
+            }
+        ]
+    },
+    {
+        "prosumerID": "57f98d1e-cff4-c56b-f9ea-2c64cc417e7c",
+        "gridLocation": "N01",
+        "userType": "industrial",
+        "devices": [
+            {
+                "deviceType": "load",
+                "deviceID": "09aedbd0-6d31-6b4a-7f6b-8793b318ad4c",
+                "peakPower": 18.01903116219356,
+                "timeOffsetRange": 0.2,
+                "pred_filename": "57f98d1e-cff4-c56b-f9ea-2c64cc417e7c-09aedbd0-6d31-6b4a-7f6b-8793b318ad4c-pred.csv",
+                "filename": "57f98d1e-cff4-c56b-f9ea-2c64cc417e7c-09aedbd0-6d31-6b4a-7f6b-8793b318ad4c.csv"
+            },
+            {
+                "deviceType": "battery",
+                "deviceID": "2aa36cf7-eb70-ba65-27d9-9a23e4f7625e",
+                "capacity": 16.26742046806867,
+                "chargePower": 2
+            }
+        ]
+    }
+]
